@@ -2,7 +2,7 @@
 
 # Práctica 10: Regeneración de glóbulos rojos [Sistema de EDOs]
 
-## Información del estudiante
+## Información de la estudiante
 
 Karla Emilia Silva Pérez [22211767]; l22211767@tectijuana.edu.mx
 
