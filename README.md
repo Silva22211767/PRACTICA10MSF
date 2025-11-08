@@ -36,13 +36,11 @@ El sistema se resolvió con los siguientes parámetros de gamma y beta:
 2. beta = [1.650, 0.867, 1.617, 2.615, 1.518, 2.676, 0.891, 2.557, 0.925, 0.089];
 
 y con las siguientes condiciones iniciales:
-1. x1(0) = COLOCAR SUS CONDICIONES INICIALES;
-2. x2(0) = COLOCAR SUS CONDICIONES INICIALES;
-3. x3(0) = COLOCAR SUS CONDICIONES INICIALES;
+1. x1(0) = 58.9267   58.9630   58.4816   59.1400   59.4250   59.4575   58.4397   59.0484   59.5034   58.4423;
+2. x2(0) = 43.9454   43.9724   43.6134   44.1044   44.3169   44.3412   43.5821   44.0361   44.3754   43.5841;
+3. x3(0) = 883.9011  884.4446  877.2243  887.0997  891.3749  891.8631  876.5949  885.7259  892.5511  876.6344;
 
-
-
-Palabras clave: Circuito RLC; Controlador PID; Regeneracion de globulos rojos; Modelo matemático; Simulaciones numéricas.
+Palabras clave: Circuito RLC; Controlador PID; Sistema de EDOS; Modelo matemático; Simulaciones numéricas.
 
 ## Lista de archivos incluidos en el repositorio
 
