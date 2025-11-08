@@ -2,8 +2,8 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: MATLAB;SPYDER
-message: lenguaje m; python
+title: MATLAB
+message: lenguaje m
 type: software
 authors:
   - given-names: Karla Emilia
@@ -11,10 +11,10 @@ authors:
     email: l22211767@tectijuana.edu.mx
     affiliation: TecNM-ITT
 repository-code: 'https://github.com/Silva22211767/PRACTICA10MSF'
-keywords:
-  - Circuito RLC
-  - Controlador PID
-  - Sistema musculoesqueletico
+keywords: 
+  - Regeneracion de globulos rojos
+  - Transfusion sanguinea
+  - Sistema de EDOS
   - Modelo matemático
   - Simulaciones numéricas
 license: BSD-2-Clause
