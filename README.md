@@ -40,7 +40,7 @@ y con las siguientes condiciones iniciales:
 2. x2(0) = 43.9454   43.9724   43.6134   44.1044   44.3169   44.3412   43.5821   44.0361   44.3754   43.5841;
 3. x3(0) = 883.9011  884.4446  877.2243  887.0997  891.3749  891.8631  876.5949  885.7259  892.5511  876.6344;
 
-Palabras clave: Circuito RLC; Controlador PID; Sistema de EDOS; Modelo matemático; Simulaciones numéricas.
+Palabras clave: Regeneracion de globulos rojos; Transfusion sanguinea; Sistema de EDOS; Modelo matemático; Simulaciones numéricas.
 
 ## Lista de archivos incluidos en el repositorio
 
