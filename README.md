@@ -1,10 +1,10 @@
-[![Open in MATLAB Online]
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Silva22211767/PRACTICA10MSF)
 
-# Práctica: Regeneración de glóbulos rojos [Sistema de EDOs]
+# Práctica 10: Regeneración de glóbulos rojos [Sistema de EDOs]
 
 ## Información del estudiante
 
-Paul A. Valle [05211261]; paul.valle@tectijuana.edu.mx
+Karla Emilia Silva Pérez [22211767]; l22211767@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
@@ -42,7 +42,7 @@ y con las siguientes condiciones iniciales:
 
 
 
-Palabras clave: ?; ?; ?; ?; ?.
+Palabras clave: Circuito RLC; Controlador PID; Regeneracion de globulos rojos; Modelo matemático; Simulaciones numéricas.
 
 ## Lista de archivos incluidos en el repositorio
 
